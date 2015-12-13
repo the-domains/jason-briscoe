@@ -1,7 +1,7 @@
 name: Jason Briscoe
 favicon: null
 layout_spectrum: 0.6288703209720552
-typography_spectrum: 0.28468790487386286
+typography_spectrum: 0.24278
 title: Jason Brisce
 cta:
   domain: null
@@ -24,6 +24,6 @@ color:
     - '#A2E3C4'
   brandStrength: 0.19196491385810077
   lightness: 0.6834439521189779
-  saturation: 0.5738827805034816
+  saturation: 0.625
   rhythmicContrast: 0.4768230889458209
 purpose: []
